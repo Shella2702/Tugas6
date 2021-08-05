@@ -4,8 +4,8 @@ let kucing = {
     Nama: 'Kucing',
     Kaki: 4,
     Spesies: 'Beranak',
-    Warna: ['oren', 'putih', 'item'],
-    Makanan: ['Ikan', 'Ayam'],
+    Warna: ['horen', 'putih', 'hitam'],
+    Makanan: ['Ikan', 'Ayam', 'whiskas'],
     Suara: 'Miaaaaw',
     Keahlian: () => {
         return "Kawin";
